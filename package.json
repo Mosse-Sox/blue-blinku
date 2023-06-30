@@ -3,9 +3,21 @@
   "displayName": "Blue-Blinku",
   "description": "blue, pink and yellow color theme",
   "version": "0.0.1",
+  "publisher": "mossesox",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mosse-Sox/blue-blinku"
+  },
   "engines": {
     "vscode": "^1.79.0"
   },
+  "keywords": [
+    "blue-blinku",
+    "color-theme",
+    "lofi",
+    "dark-theme",
+    "colourful"
+  ],
   "categories": [
     "Themes"
   ],
